@@ -100,7 +100,7 @@ These findings provide valuable insights into the company’s workforce composit
 
 ---
 
-### Future Imporvements
+### Future Improvements
 
 While the current analysis provides valuable insights, several areas could be explored further to enhance the understanding of the company’s HR metrics:
 
